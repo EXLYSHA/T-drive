@@ -16,3 +16,5 @@ Limited by the computation time and loading speed of the model, I only used 10% 
 5.Incorporate more advanced time encoding methods, such as sinusoidal encoding, to capture periodicity.
 
 6.Dynamically adjust the learning rate using techniques like annealing to prevent the model from getting stuck in local optima.
+
+7.Try adjusting the model's hyperparameters.
